@@ -43,6 +43,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [roundtable](https://askbud.ai/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [SAMTok](https://huggingface.co/spaces/insomnia7/SAMTok) - Unified mask-token interface for MLLMs (Multimodal Large Language Models), enabling better integration between vision and language models through standardized masking tokens.
 - [SWE-agent](https://swe-agent.com/latest/) - AI agent that automatically fixes GitHub issues using your LM of choice.
+- [AI Workdeck](https://github.com/zeweihan/aiworkdeck) - Open-source AI-native workspace for legal and document-heavy workflows with MCP agent orchestration. Self-hosted with OCR, due-diligence risk flagging, evidence-chain management, WPS WebOffice integration, smart clipboard. Supports air-gapped deployment with Ollama + local storage. AGPLv3.
 
 ## Game Development
 
