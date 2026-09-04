@@ -118,6 +118,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [AgentMesh](https://github.com/amitayks/agentmesh) - Secure agent-to-agent communication protocol providing end-to-end encryption for AI agents coordinating on production issues and sharing debug information.
 - [AgentScope](https://github.com/agentscope-ai/agentscope) - Agent-oriented programming framework for building LLM applications with multi-agent support, distributed deployment, and comprehensive tooling for agent development.
 - [AgentUp](https://github.com/always-further/AgentUp) - Portable, scalable, secure AI Agents platform for agent development and deployment.
+- [AIWG](https://github.com/jmagly/aiwg) - Open-source infrastructure for deploying reusable agents, skills, context, and governed workflows across coding platforms.
 - [AgentVerse](https://github.com/openbmb/agentverse) - Framework for deploying multiple LLM-based agents in various applications, providing task-solving and simulation frameworks for multi-agent coordination.
 - [AutoGen](https://microsoft.github.io/autogen/stable/) - Microsoft's programming framework for building multi-agent AI systems with autonomous agent communication and collaboration capabilities.
 - [chevin](https://github.com/autonet-code/chevin) - Multi-agent orchestrator for coordinated task execution, enabling trustless coordination between AI agents through blockchain-based infrastructure.
