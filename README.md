@@ -187,6 +187,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [MindsDB](https://mindsdb.com/) - Federated Query Engine for AI that serves as a comprehensive MCP Server for connecting AI agents to multiple data sources and services.
 - [PersonalizationMCP](https://github.com/YangLiangwei/PersonalizationMCP) - A unified personal data hub built on MCP that allows AI assistants to access your digital life from Steam, YouTube, Bilibili and more platforms for truly personalized interactions.
 - [py-vectara-agentic](https://github.com/vectara/py-vectara-agentic) - A Python library for creating AI assistants with Vectara, using Agentic RAG for autonomous information retrieval and response generation.
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote MCP: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 
 ## Content Creation & Media
 
