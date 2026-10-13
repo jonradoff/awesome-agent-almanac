@@ -113,6 +113,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [Agency](https://github.com/neurocult/agency) - Go library for building agentic AI applications with LLMs through a clean, idiomatic approach.
 - [Agency Swarm](https://agency-swarm.ai/welcome/overview) - Reliable Multi-Agent Orchestration Framework for coordinating and managing multiple AI agents in collaborative workflows.
 - [Agent MCP Server](https://docs.1mcp.app) - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one, simplifying agent integration with multiple data sources and tools.
+- [Agent Barn](https://github.com/aai-labs/agent-barn) - Open-source (Apache-2.0) control plane for running AI agent teams: Slack, Teams, Telegram, Discord and email front ends, agent work across Jira, GitHub, Confluence and more, full audit logging of conversations, tool calls and costs, Helm deployment on your own Kubernetes cluster.
 - [Agent-LLM (AGiXT)](https://www.agixt.dev/) - Dynamic AI Agent Automation Platform that orchestrates instruction management and complex task execution across diverse AI providers with adaptive memory, smart features, and a versatile plugin system.
 - [AgentField](https://agentfield.ai/) - Kubernetes for AI Agents.
 - [AgentMesh](https://github.com/amitayks/agentmesh) - Secure agent-to-agent communication protocol providing end-to-end encryption for AI agents coordinating on production issues and sharing debug information.
